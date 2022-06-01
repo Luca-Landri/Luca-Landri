@@ -4,7 +4,7 @@ Hi 👋 My name is Luca
 Developer, designer and video editor
 ------------------------------------
 
-Hi, i am a person who likes to program and i share his own stuff, i love edit video or create content
+Hi, i am a person who likes to program and i share his own stuff, i love edit video or create content, i also like game development and 3d modelling
 
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [3005lucalandriscina@gmail.com](mailto:3005lucalandriscina@gmail.com)
