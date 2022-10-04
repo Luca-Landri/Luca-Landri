@@ -38,13 +38,3 @@ Hi, i am a person who likes to program and i share his own stuff, i love edit vi
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Luca-Landri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/luca_landri__/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/luca-landriscina-36046b20b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Luca-Landri"><img src="https://github-readme-stats.vercel.app/api?username=Luca-Landri&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Luca-Landri's GitHub stats" /></a>
-
-<a href="http://www.github.com/Luca-Landri"><img src="https://activity-graph.herokuapp.com/graph?username=Luca-Landri&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Luca-Landri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luca-Landri&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
